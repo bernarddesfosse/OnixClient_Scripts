@@ -8,7 +8,6 @@
 client = client or {}
 
 ---Sends a client notification
----and this will update
 ---@param text string The text in the notification
 function client.notification(text) end
 
