@@ -7,7 +7,7 @@
 ---@field mcversion string The minecraft version
 client = client or {}
 
----Sends a client notification
+---Sends a client notification among??
 ---@param text string The text in the notification
 function client.notification(text) end
 
